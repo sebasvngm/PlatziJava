@@ -1,0 +1,2 @@
+# PlatziJava
+Exercises
